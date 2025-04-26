@@ -9,6 +9,7 @@
 --    Place yourself directly next to a collection point
 --    Then i suppose you start the script after configuring mission
 --    Also make sure you disable the script yourself when it's below 1 minute left on the red alert, there's no checks for that atm
+--    You should also make sure you've got food and macro set up in the recipe itself by opening it once if you need that
 --=========================================================--
 
 --====================== CONFIG ===========================--
